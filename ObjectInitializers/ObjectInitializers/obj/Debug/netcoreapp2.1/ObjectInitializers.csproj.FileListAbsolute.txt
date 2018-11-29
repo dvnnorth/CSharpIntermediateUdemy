@@ -1,0 +1,11 @@
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/bin/Debug/netcoreapp2.1/ObjectInitializers.deps.json
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/bin/Debug/netcoreapp2.1/ObjectInitializers.runtimeconfig.json
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/bin/Debug/netcoreapp2.1/ObjectInitializers.runtimeconfig.dev.json
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/bin/Debug/netcoreapp2.1/ObjectInitializers.dll
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/bin/Debug/netcoreapp2.1/ObjectInitializers.pdb
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/obj/Debug/netcoreapp2.1/ObjectInitializers.csprojAssemblyReference.cache
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/obj/Debug/netcoreapp2.1/ObjectInitializers.csproj.CoreCompileInputs.cache
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/obj/Debug/netcoreapp2.1/ObjectInitializers.AssemblyInfoInputs.cache
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/obj/Debug/netcoreapp2.1/ObjectInitializers.AssemblyInfo.cs
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/obj/Debug/netcoreapp2.1/ObjectInitializers.dll
+/home/dvnnorth/Development/RiderWorkspace/CSharpIntermediateUdemy/ObjectInitializers/ObjectInitializers/obj/Debug/netcoreapp2.1/ObjectInitializers.pdb
