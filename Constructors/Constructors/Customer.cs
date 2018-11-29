@@ -29,3 +29,6 @@ namespace Constructors
     }
   }
 }
+
+// There are a lot of constructors. Imagine if there were more fields!
+// Object initialization takes care of that
