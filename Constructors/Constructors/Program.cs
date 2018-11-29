@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Constructors
 {
@@ -6,7 +7,11 @@ namespace Constructors
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var customer = new Customer(1, "John");
+            var order = new Order();
+            customer.Orders.Add(order);
+            Console.WriteLine(customer.Id);
+            Console.WriteLine(customer.Name);
         }
     }
 }

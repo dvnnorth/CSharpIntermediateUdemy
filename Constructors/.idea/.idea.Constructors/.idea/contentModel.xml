@@ -6,6 +6,8 @@
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="Constructors" t="IncludeRecursive">
         <e p="Constructors.csproj" t="IncludeRecursive" />
+        <e p="Customer.cs" t="Include" />
+        <e p="Order.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
